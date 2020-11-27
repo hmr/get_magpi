@@ -1,2 +1,8 @@
 # get_magpi
-Downloads all issued MagPi.
+Small tool to download all issued MagPi PDF file.
+
+## Usage
+```
+./get_magpi.sh
+```
+
